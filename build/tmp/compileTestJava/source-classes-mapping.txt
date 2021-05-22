@@ -1,0 +1,6 @@
+com/selenium/hiszpanski_settera_selenium/MainPageTest.java
+ com.selenium.hiszpanski_settera_selenium.MainPageTest
+com/selenium/hiszpanski_settera_selenium/WebDriverConfig.java
+ com.selenium.hiszpanski_settera_selenium.WebDriverConfig
+com/selenium/hiszpanski_settera_selenium/MainPage.java
+ com.selenium.hiszpanski_settera_selenium.MainPage
